@@ -59,11 +59,11 @@ function Main() {
             width={160}
             quality={100}
             alt="avatar"
-            className="w-[calc(12rem+4vw)] mask mask-circle object-cover"
+            className="w-[calc(10rem+4vw)] mask mask-circle object-cover"
           />
           <RiZzzFill className="absolute bg-base-200 mask mask-circle box-content p-2 right-3 bottom-3 size-[clamp(0.3rem,0.3rem+1.2vw,2rem)]" />
         </motion.div>
-        <motion.p className="text-4xl self-start text-[clamp(1rem,1rem+3vw,2.25rem)]">
+        <motion.p className="text-4xl self-start text-[clamp(1rem,1rem+3vw,2rem)]">
           Kannaneko
         </motion.p>
       </motion.div>
